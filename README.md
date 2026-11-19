@@ -14,13 +14,15 @@ In recent years I've been focusing more on LLMs and AI, and assistive technologi
 
 **Despite** all of this, I appreciate _human labour and artistry_ a lot; I won't let generative tools interject themselves into art, illustration, modelling or design of any kind. I am of the opinion that the **Hard Problem of Consciousness** is **unsolvable**; therefore all that's left to me is the art I make and the making of it. I can't let agents replace that. The art in code is sparse, it is abundant _elsewhere_.
 
-(Sorry for the Aphorism)
+(Sorry for the aphorism)
 
 ### AI DISCLAIMER
 
 I am vegan and I have worked through the math for LLMs and AI water usage; I am aware of the environmental impact of these technologies, and I am against the way they were trained without consent, but Pandora's box is open, and the water usage is much smaller than some people's burger habits :)
 
 _**No Ethical Consumption under Capitalism**_.
+
+-> [Read more](https://github.com/Typeir/.github/blob/main/AI_DISCLAIMER.md) <-
 
 ## Projects
 
