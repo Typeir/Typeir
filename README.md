@@ -14,7 +14,7 @@ In recent years I've been focusing more on LLMs and AI, and assistive technologi
 
 **Despite** all of this, I appreciate _human labour and artistry_ a lot; I won't let generative tools interject themselves into art, illustration, modelling or design of any kind. I am of the opinion that the **Hard Problem of Consciousness** is **unsolvable**; therefore all that's left to me is the art I make and the making of it. I can't let agents replace that. The art in code is sparse, it is abundant _elsewhere_.
 
-(Sorry for the Aphorism, I promise I'm a real person)
+(Sorry for the Aphorism)
 
 ### AI DISCLAIMER
 
